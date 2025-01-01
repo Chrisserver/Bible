@@ -31,6 +31,7 @@ a.xx	{background-color:#333333 !important}
 a.nn	{background-color:#202050 !important}
 a.oo	{background-color:#205030 !important}
 a.aa	{background-color:#333300 !important}
+a.rr {background-color:#50202e !important}
 html[dir=rtl] body	{text-align:right;direction:rtl}
 span.add	{font-style:italic}
 .popup,.crpopup	{position:absolute;bottom:0;display:none;background-color:#ffffd0;border:.1em solid #333;width:15em;height:auto;padding:1em;line-height:1em;text-indent:0em;margin 0.5em 0.5em 0.5em 0.5em}
